@@ -5,8 +5,14 @@ My name is Antonio and I'm a Blockchain Developer looking for his first Web 3 jo
 Creating this readme presenting myself is a task long overdue and I will be posting and linking all the different projects I've been working on for the past year soon!
 
 ### Languages and tools
-<img align="left" alt="JavaScript" width="50em" style="padding-right:5em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="JavaScript" width="50em" style="padding-right:5em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+<img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+<img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+
+
+
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
