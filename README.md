@@ -5,7 +5,7 @@ My name is Antonio and I'm a Blockchain Developer looking for his first Web 3 jo
 Creating this readme presenting myself is a task long overdue and I will be posting and linking all the different projects I've been working on for the past year soon!
 
 ### Languages and tools
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="5em" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
           
 <!--
