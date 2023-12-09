@@ -10,7 +10,7 @@ Creating this readme presenting myself is a task long overdue and I will be post
 
 ---
 
-### Languages and tools
+## Languages and tools
 <img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Solidity" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" alt="NodeJS" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -20,7 +20,15 @@ Creating this readme presenting myself is a task long overdue and I will be post
 <img align="left" alt="Kubernetes" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Express" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
+## Dev portfolio
 
+This is work in progress. Here I will link the different projects I have done since 2022.
+
+### CodeCrypto Blockchain Engineer Master's Course
+
+#### Web 2 projects
+
+##### Design project
 
 
                     
