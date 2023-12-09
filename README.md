@@ -20,17 +20,15 @@ Creating this readme presenting myself is a task long overdue and I will be post
 <img align="left" alt="Kubernetes" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Express" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br/>
-&nbsp; <!-- Add a non-breaking space -->
-&nbsp; <!-- Add another non-breaking space -->
+&nbsp;
+&nbsp;
 
 ---
 
 ## Dev portfolio
-
 This is work in progress. Here I will link the different projects I have done since 2022.
 
 ### CodeCrypto Blockchain Engineer Master's Course
-
 I completed the CodeCrypto course, a 10-month program covering web 3 development, transitioning from web 2 technologies like HTML, CSS, JavaScript, to advanced concepts like Docker and Kubernetes.
 
 #### Web 2 Projects
