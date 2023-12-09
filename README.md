@@ -34,7 +34,7 @@ The CodeCrypto course was a 10 month program I signed up for after completing al
 #### Web 2 Projects
 The projects done after finishing all the lessons for the web 2 part of the course are featured below:
 
-##### Design Project
+1. Design Project
 This was a project consisting only of a React front end. The aim was to focus on the aesthetic side of web development. Take a look at the code [here](https://github.com/arynyestos/CodeCryptoDesignProject)!
 
 ---
