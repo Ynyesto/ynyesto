@@ -36,6 +36,7 @@ I completed the CodeCrypto course, a 10-month program covering web 3 development
 ##### Design Project
 A React-based project focusing on web aesthetics. [Check it out here](https://github.com/arynyestos/CodeCryptoDesignProject).
 
+---
 
                     
 <!--
