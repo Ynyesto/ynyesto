@@ -29,12 +29,13 @@ Creating this readme presenting myself is a task long overdue and I will be post
 This is work in progress. Here I will link the different projects I have done since 2022.
 
 ### CodeCrypto Blockchain Engineer Master's Course
-I completed the CodeCrypto course, a 10-month program covering web 3 development, transitioning from web 2 technologies like HTML, CSS, JavaScript, to advanced concepts like Docker and Kubernetes.
+The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
 
 #### Web 2 Projects
+The projects done after finishing all the lessons for the web 2 part of the course are featured below:
 
 ##### Design Project
-A React-based project focusing on web aesthetics. [Check it out here](https://github.com/arynyestos/CodeCryptoDesignProject).
+This was a project consisting only of a React front end. The aim was to focus on the aesthetic side of web development. Take a look at the code [here](https://github.com/arynyestos/CodeCryptoDesignProject)!
 
 ---
 
