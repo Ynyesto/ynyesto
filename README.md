@@ -38,6 +38,15 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 
 ---
 
+### Hackathons
+
+#### Block & Change hackathon
+
+In October 2023 I participated in a hackathon organized by Block & Change. My team and I worked tirelessly for almost 48 hours with very little sleep, but it payed off, we *won the prize for best social innovation*. Please find [here](https://github.com/arynyestos/BlockChangeHackathon) the repo with the code we developed that weekend.
+
+#### Constellation Chainlink hackathon
+
+
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
