@@ -52,7 +52,7 @@ In October 2023 I participated in a hackathon organized by Block & Change. My te
 
 #### Constellation Chainlink hackathon
 
-From the 8th of November to the 10th of December of 2023 I participated in the Constellation Chainlink Hackathon. This was much longer and my team and I had time to develop a much more complex project. Check it out [here](https://github.com/CarlosAlegreUr/Constellation-ChainlinkHackathon-2023)!
+From the 8th of November to the 10th of December of 2023 I participated in the Constellation Chainlink Hackathon. This one was much longer and my team and I had time to develop a much more complex project. Check out the code [here](https://github.com/CarlosAlegreUr/Constellation-ChainlinkHackathon-2023) and take a look at the [Devpost page](https://devpost.com/software/prompt-fighters) as well!
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
