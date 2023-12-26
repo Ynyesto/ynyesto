@@ -36,7 +36,7 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 
 1. [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject): For the first project we made a faucet on a local Go-Ethereum network running on Docker. 
 2. [SQL](https://github.com/arynyestos/CodeCryptoSqlProject/blob/main/README.md): On the second project we put into practice some of the back end development concepts learnt during the course.
-3. [ETH Shopping Cart](https://github.com/arynyestos/CodeCryptoETHShoppingCartProject): On the third project we leveraged both the local network created in the Faucet project and the database created on the SQL project. The latter was used as the product database of an e-commerce in which purchases would be made paying with ETH.
+3. [ETH Shopping Cart](https://github.com/arynyestos/CodeCryptoEthEcommerce): On the third project we leveraged both the local network created in the Faucet project and the database created on the SQL project. The latter was used as the product database of an e-commerce in which purchases would be made paying with ETH.
 4. [Design](https://github.com/arynyestos/CodeCryptoDesignProject): This was a project consisting only of a React front end. The aim was to focus on the aesthetic side of web development. 
 5. Coming soon...
 6. Coming soon...
