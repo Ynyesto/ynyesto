@@ -42,6 +42,26 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 6. Coming soon...
 7. Coming soon...
 
+### Alchemy University Ethereum Developer Bootcamp
+The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. The different projects developed during this course will be listed below:
+
+1. Coming soon...
+2. Coming soon...
+3. Coming soon...
+
+### Cyfrin Updraft courses
+These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below I'll share some of the code developed during the course.
+
+1. Coming soon...
+2. Coming soon...
+3. Coming soon...
+
+Also, below you can see the 15 NFT badges I achieved by completing all the challenges of the course, one at the end of each lesson:
+
+<p align="center">
+  <img src="https://github.com/arynyestos/arynyestos/assets/33223441/7efaeb5d-4424-4688-bdf6-100a2292dd0b">
+</p>
+
 ---
 
 ### Hackathons
