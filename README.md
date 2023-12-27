@@ -64,7 +64,7 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
 
 ### Alchemy University Road to Web3 program
 
-After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week program to help new blockchain devs go from beginner to advanced. Below I will link the code developed for each of them. 
+After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I will link the code developed for each of them. 
 
 1. [How to Develop an NFT Smart Contract (ERC721)](https://github.com/arynyestos/RoadToWeb3ERC721): This served to review concepts already known from other courses regarding the ERC721 standard, NFT metadata, IPFS and so on.
 2. How to Build a "Buy Me a Coffee" DeFi dApp: Coming soon...
