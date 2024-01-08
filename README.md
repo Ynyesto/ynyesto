@@ -87,6 +87,10 @@ In October 2023 I participated in a hackathon organized by Block & Change. My te
 
 From the 8th of November to the 10th of December of 2023 I participated in the Constellation Chainlink Hackathon. This one was much longer and my team and I had time to develop a much more complex project. Check out the project's [GitHub repo](https://github.com/CarlosAlegreUr/Constellation-ChainlinkHackathon-2023) and take a look at the [Devpost page](https://devpost.com/software/prompt-fighters) as well!
 
+#### Vottun & Dextools hackathon
+
+The weekend of January 27th to 28th, I will participate in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. I hope to develop an interesting project on the Bitcoin sidechain and meet many colleagues in the field.
+
 ### Personal projects
 
 #### Carbon _defootprint_ dApp
