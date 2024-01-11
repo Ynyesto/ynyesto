@@ -95,6 +95,9 @@ The weekend of January 27th to 28th, I will participate in the [hackathon](https
 
 #### Carbon _defootprint_ dApp
 This was a personal project created for a POC presentation at my current company, in the railway sector. It consists of a smart contract deployed on the Sepolia testnet which simply stores the numbers representing the carbon footprint avoided by the user when they travel by train instead of flying. A React front end styled using Tailwind CSS was used to interact with the contarct. Check out the repo [here](https://github.com/arynyestos/TrainCarbonDefootprint)!
+
+### FilmChain SC verification
+Not quite a personal project but a challenge to check my capability for a possible collaboration with the FilmChain project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
