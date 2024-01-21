@@ -6,8 +6,6 @@ I'm an Industrial Technologies Engineer (M. Sc.) with a master's degree in Autom
 
 I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingeniero Blockchain](https://codecrypto.academy/master-ingeniero-blockchain/), Alchemy University's [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) or [Cyfrin Updraft](https://updraft.cyfrin.io/)'s Solidity 101, Foundry 101 and Advanced Foundry. Right now my main occupation (besides my day job) is to keep creating a portfolio of projects that make my profile attractive for Web 3 companies. I've already participated in hackathons like [Constellation](https://chain.link/hackathon) by Chainlink and [Block & Change](https://hackathon.blockandchange.com/) and intend to keep working on personal/group projects as well as other courses. Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since Chainlink is, to my mind, one of the key actors in the new paradigm that is coming. 
 
-Creating this readme presenting myself is a task long overdue and I will be posting and linking all the different projects I've been working on for the past year soon!
-
 ---
 
 ## Languages and tools
