@@ -30,6 +30,7 @@ This is work in progress. Here I will link the different projects I have done si
 The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
 
 #### Web 2 Projects
+<details open>
 The projects done after finishing all the lessons for the web 2 part of the course are featured below:
 
 1. [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject): For the first project we made a faucet on a local Go-Ethereum network running on Docker. 
@@ -39,6 +40,7 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 5. [Cryptography](https://github.com/arynyestos/CodeCryptoCryptography): On this project we learnt to different ways of encrypting and decrypting files with symmetric cryptography.
 6. Block Explorer: Coming soon...
 7. Ethereum network: Coming soon...
+</details>
 
 #### Web 3 Projects
 Coming soon...
