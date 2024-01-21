@@ -52,6 +52,7 @@ The Ethereum Developer Bootcamp was very high quality course in which I learnt a
 These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below I'll share some of the code developed during the course.
 
 <details closed>
+  
 1. Coming soon...
 2. Coming soon...
 3. Coming soon...
@@ -68,6 +69,7 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
 After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I will link the repo for each of them. 
 
 <details closed>
+  
 1. [Develop an NFT Smart Contract (ERC721)](https://github.com/arynyestos/RoadToWeb3ERC721): This served to review concepts already known from other courses regarding the ERC721 standard, NFT metadata, IPFS and so on.
 2. [Build a "Buy Me a Coffee" DeFi dApp](https://github.com/arynyestos/RoadToWeb3BuyMeACoffee): On this project, a simple smart contract to receive tips was developed and then interacted with from a Hardhat script, as well as from a front end.
 3. [Make NFTs with On-chain Metadata with Hardhat and Javascript](https://github.com/arynyestos/RoadToWeb3NftsOnchainMetadata): Another Solidity, Javascript and Hardhat project, in which we created fully on-chain, dynamic NFTs, suitable for Web3 videogames.
