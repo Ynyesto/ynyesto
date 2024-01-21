@@ -110,7 +110,7 @@ This was a personal project created for a POC presentation at my current company
 Not quite a personal project but a challenge to check my capability for a possible collaboration with the FilmChain project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
 
 #### Oasis Riddle
-This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (through which you can earn 200 ROSE), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
+This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (where you can earn 200 ROSE!), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
