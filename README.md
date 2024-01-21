@@ -49,13 +49,18 @@ Coming soon...
 The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature workers have to endure, leveraging Chainlink's services, called SummerPay!
 
 ### Cyfrin Updraft courses
-These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below I'll share some of the code developed during the course.
+These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. Also, unlinke the other repos linked in this readme, no further explanations were added, since the course's official repo already explains the content in depth.
 
 <details closed>
   
-1. Coming soon...
-2. Coming soon...
-3. Coming soon...
+1. [Lesson 7](https://github.com/arynyestos/SolidityFoundryCourse-Lesson7): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-7-foundry-fund-me) to the official repo.
+1. [Lesson 9](https://github.com/arynyestos/SolidityFoundryCourse-Lesson9): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-9-foundry-smart-contract-lottery) to the official repo.
+1. [Lesson 10](https://github.com/arynyestos/SolidityFoundryCourse-Lesson10): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-10-foundry-erc20s) to the official repo.
+1. [Lesson 11](https://github.com/arynyestos/SolidityFoundryCourse-Lesson11): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-11-foundry-nfts--moodnft) to the official repo.
+1. [Lesson 12](https://github.com/arynyestos/SolidityFoundryCourse-Lesson12): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here) to the official repo.
+1. [Lesson 13](https://github.com/arynyestos/SolidityFoundryCourse-Lesson13): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-13-foundry-upgrades) to the official repo.
+1. [Lesson 14](https://github.com/arynyestos/SolidityFoundryCourse-Lesson14): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-14-foundry-dao--governance) to the official repo.
+1. [Lesson 15](https://github.com/arynyestos/SolidityFoundryCourse-Lesson15): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-15-smart-contract-security--auditing-for-developers) to the official repo.
 
 Also, below you can see the 15 NFT badges I achieved by completing all the challenges of the course, one at the end of each lesson:
 
@@ -103,6 +108,9 @@ This was a personal project created for a POC presentation at my current company
 
 #### FilmChain SC verification
 Not quite a personal project but a challenge to check my capability for a possible collaboration with the FilmChain project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
+
+#### Oasis Riddle
+This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (through which you can earn 200 ROSE), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
