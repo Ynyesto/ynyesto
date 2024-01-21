@@ -54,15 +54,15 @@ These are probably some of the most complete and highest standard courses out th
 <details closed>
 
 1. [Foundry Fundamentals](https://updraft.cyfrin.io/courses/foundry): 
-  1. [Fund Me contract](https://github.com/arynyestos/SolidityFoundryCourse-Lesson7): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-7-foundry-fund-me) to the official repo.
-  1. [Smart Contract Lottery](https://github.com/arynyestos/SolidityFoundryCourse-Lesson9): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-9-foundry-smart-contract-lottery) to the official repo.
+    1. [Fund Me contract](https://github.com/arynyestos/SolidityFoundryCourse-Lesson7): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-7-foundry-fund-me).
+    2. [Smart Contract Lottery](https://github.com/arynyestos/SolidityFoundryCourse-Lesson9): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-9-foundry-smart-contract-lottery).
 2. [Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry): 
-1. [ERC20s](https://github.com/arynyestos/SolidityFoundryCourse-Lesson10): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-10-foundry-erc20s) to the official repo.
-1. [NFTs](https://github.com/arynyestos/SolidityFoundryCourse-Lesson11): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-11-foundry-nfts--moodnft) to the official repo.
-1. [Decentralized Stablecoin](https://github.com/arynyestos/SolidityFoundryCourse-Lesson12): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here) to the official repo.
-1. [Upgradeable Smart Contracts](https://github.com/arynyestos/SolidityFoundryCourse-Lesson13): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-13-foundry-upgrades) to the official repo.
-1. [DAOs](https://github.com/arynyestos/SolidityFoundryCourse-Lesson14): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-14-foundry-dao--governance) to the official repo.
-1. [Security](https://github.com/arynyestos/SolidityFoundryCourse-Lesson15): [Link](https://github.com/Cyfrin/foundry-full-course-f23#lesson-15-smart-contract-security--auditing-for-developers) to the official repo.
+    1. [ERC20s](https://github.com/arynyestos/SolidityFoundryCourse-Lesson10): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-10-foundry-erc20s).
+    2. [NFTs](https://github.com/arynyestos/SolidityFoundryCourse-Lesson11): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-11-foundry-nfts--moodnft).
+    3. [Decentralized Stablecoin](https://github.com/arynyestos/SolidityFoundryCourse-Lesson12): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here).
+    4. [Upgradeable Smart Contracts](https://github.com/arynyestos/SolidityFoundryCourse-Lesson13): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-13-foundry-upgrades).
+    5. [DAOs](https://github.com/arynyestos/SolidityFoundryCourse-Lesson14): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-14-foundry-dao--governance).
+    6. [Security](https://github.com/arynyestos/SolidityFoundryCourse-Lesson15): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-15-smart-contract-security--auditing-for-developers).
 
 Also, below you can see the 15 NFT badges I achieved by completing all the challenges of the course, one at the end of each lesson:
 
