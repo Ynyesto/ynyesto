@@ -102,7 +102,7 @@ From the 8th of November to the 10th of December of 2023 I participated in the C
 
 #### Vottun & Dextools hackathon
 
-The weekend of January 27th to 28th, I will participate in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. I hope to develop an interesting project on the Bitcoin sidechain and meet many colleagues in the field.
+The weekend of January 27th to 28th, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
 
 ### Personal projects
 
