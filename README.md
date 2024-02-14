@@ -63,13 +63,16 @@ These are probably some of the most complete and highest standard courses out th
     4. [Upgradeable Smart Contracts](https://github.com/arynyestos/SolidityFoundryCourse-Lesson13): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-13-foundry-upgrades).
     5. [DAOs](https://github.com/arynyestos/SolidityFoundryCourse-Lesson14): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-14-foundry-dao--governance).
     6. [Security](https://github.com/arynyestos/SolidityFoundryCourse-Lesson15): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-15-smart-contract-security--auditing-for-developers).
-3. [Security and Auditing](https://updraft.cyfrin.io/courses/security): Work in progress...
 
 Also, below you can see the 15 NFT badges I achieved by completing all the challenges of the course, one at the end of each lesson:
 
 <p align="center">
   <img src="https://github.com/arynyestos/arynyestos/assets/33223441/7efaeb5d-4424-4688-bdf6-100a2292dd0b">
 </p>
+
+
+3. [Security and Auditing](https://updraft.cyfrin.io/courses/security): 
+    1. [PasswordStore audit](https://github.com/arynyestos/PasswordStoreAudit)
 </details>
 
 ### Alchemy University Road to Web3 program
