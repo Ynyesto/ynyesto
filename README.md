@@ -125,13 +125,15 @@ This was a personal project created for a POC presentation at my current company
 #### Oasis Riddle
 This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (where you can earn 200 ROSE!), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
 
+---
+
 ## Researcher portfolio
 
 Below you can see the different research projects I've carried out. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research.
 
 ### Quantitative research directions for staking providers
 
-This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Hope you enjoy the [read])(https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)!
+This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Hope you enjoy the [read](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)!
 
 ### Ethereum Protocol Fellowship wiki entry on PBS
 
