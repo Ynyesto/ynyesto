@@ -133,7 +133,7 @@ Below you can see the different research projects I've carried out. I try to dev
 
 ### Quantitative research directions for staking providers
 
-This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Here's the [markdown file] (https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0), hope you enjoy the read!
+This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Here's the [markdown file](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0), hope you enjoy the read!
 
 ### Ethereum Protocol Fellowship wiki entry on PBS
 
