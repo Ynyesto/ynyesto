@@ -137,7 +137,7 @@ This was a piece of research I had to do to apply for a position at [Chorus One]
 
 ### Ethereum Protocol Fellowship wiki entry on PBS
 
-Since February, 2024, I've been participating in the Ethereum Protocol Fellowship Study Group, which encourages students to contribute to the wiki. Check out [here](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) the entry I wrote on PBS.
+Since February, 2024, I've been participating in the [Ethereum Protocol Fellowship Study Group](https://blog.ethereum.org/2024/02/07/epf-study-group), which encourages students to contribute to the wiki. Check out [here](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) the entry I wrote on PBS.
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
