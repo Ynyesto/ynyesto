@@ -107,13 +107,20 @@ From the 8th of November to the 10th of December of 2023 I participated in the C
 
 The weekend of January 27th to 28th, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
 
+### Recruitment challenges
+
+Below are the repos corresponding to challenges I solved to prove my skills in selection processes.
+
+#### FilmChain SC verification
+This was a challenge to check my capability for a possible collaboration with the [FilmChain](https://filmchain.xyz/) project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
+
+#### 
+Similarly, the guys at [Tru Web3](https://truweb3.co/) challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology and I completed that as well!
+
 ### Personal projects
 
 #### Carbon _defootprint_ dApp
 This was a personal project created for a POC presentation at my current company, in the railway sector. It consists of a smart contract deployed on the Sepolia testnet which simply stores the numbers representing the carbon footprint avoided by the user when they travel by train instead of flying. A React front end styled using Tailwind CSS was used to interact with the contarct. Check out the repo [here](https://github.com/arynyestos/TrainCarbonDefootprint)!
-
-#### FilmChain SC verification
-Not quite a personal project but a challenge to check my capability for a possible collaboration with the FilmChain project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
 
 #### Oasis Riddle
 This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (where you can earn 200 ROSE!), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
