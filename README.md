@@ -114,8 +114,8 @@ Below are the repos corresponding to challenges I solved to prove my skills in s
 #### FilmChain SC verification
 This was a challenge to check my capability for a possible collaboration with the [FilmChain](https://filmchain.xyz/) project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
 
-#### 
-Similarly, the guys at [Tru Web3](https://truweb3.co/) challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology and I completed that as well!
+#### TruWeb3 ERC20 Cross Chain Mirror
+Similarly, the guys at [TruWeb3](https://truweb3.co/) challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology and I completed that as well!
 
 ### Personal projects
 
