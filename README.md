@@ -2,9 +2,9 @@
 
 **`Blockchain Developer`**
 
-I'm an Industrial Technologies Engineer (M. Sc.) with a master's degree in Automation and Robotics (so that would be two MScs 😋). I've been working on software since I finished college and started learning about Blockchain over two years ago now, and blockchain software development over a year ago. I believe this technology will completely revolutionize the world, and once I realized this I decided I wanted to be a part of that revolution. Being an engineer, what made most sense to me was to become a Web3 dev. That is why over a year ago I embarked on a learning journey that will hopefully continue in a Web3 company soon.
+I'm an Industrial Technologies Engineer (M. Sc.) with a master's degree in Automation and Robotics (so that would be two MScs 😋). I've been working on software since I finished college and started learning about Blockchain in early 2022, and blockchain software development in the summer of the same year. I believe this technology will completely revolutionize the world, and once I realized this I decided I wanted to be a part of that revolution. Being an engineer, what made most sense to me was to become a Web3 dev/researcher. That is why over a year ago I embarked on a learning journey that will hopefully continue in a Web3 company soon.
 
-I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingeniero Blockchain](https://codecrypto.academy/master-ingeniero-blockchain/), Alchemy University's [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) or [Cyfrin Updraft](https://updraft.cyfrin.io/)'s Solidity 101, Foundry 101 and Advanced Foundry. Right now my main occupation (besides my day job) is to keep creating a portfolio of projects that make my profile attractive for Web 3 companies. I've already participated in hackathons like [Constellation](https://chain.link/hackathon) by Chainlink and [Block & Change](https://hackathon.blockandchange.com/) and intend to keep working on personal/group projects as well as other courses. Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since Chainlink is, to my mind, one of the key actors in the new paradigm that is coming. 
+I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingeniero Blockchain](https://codecrypto.academy/master-ingeniero-blockchain/), Alchemy University's [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) or [Cyfrin Updraft](https://updraft.cyfrin.io/)'s Solidity 101, Foundry 101 and Advanced Foundry. Right now my main occupation (besides my day job) is to keep creating a portfolio of projects that make my profile attractive for Web 3 companies. I've already participated in hackathons like [Constellation](https://chain.link/hackathon) by Chainlink and [Dextools & Vottun](https://vottun.com/hackathon/) and intend to keep working on personal/group projects as well as other courses. Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since Chainlink is, to my mind, one of the key actors in the new paradigm that is coming. 
 
 ---
 
@@ -24,7 +24,7 @@ I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingenier
 ---
 
 ## Dev portfolio
-This is work in progress. Here I will link the different projects I have done since 2022.
+This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
 ### CodeCrypto Blockchain Engineer Master's Course
 The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
@@ -124,6 +124,18 @@ This was a personal project created for a POC presentation at my current company
 
 #### Oasis Riddle
 This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by Oasis Network (where you can earn 200 ROSE!), for which they hand out flyers with codes at Web 3 events. If you ever get one of those codes I've got your back, check out the [repo](https://github.com/arynyestos/OasisRiddle) and follow the steps to solve it in the blink of an eye!
+
+## Researcher portfolio
+
+Below you can see the different research projects I've carried out. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research.
+
+### Quantitative research directions for staking providers
+
+This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Hope you enjoy the [read])(https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)!
+
+### Ethereum Protocol Fellowship wiki entry on PBS
+
+Since February, 2024, I've been participating in the Ethereum Protocol Fellowship Study Group, which encourages students to contribute to the wiki. Check out [here](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) the entry I wrote on PBS.
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
