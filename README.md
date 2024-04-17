@@ -133,11 +133,11 @@ Below you can see the different research projects I've carried out. I try to dev
 
 ### Quantitative research directions for staking providers
 
-This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). Here's the [markdown file](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0). Hope you enjoy the read!
+This was a piece of research I had to do to apply for a position at [Chorus One](https://chorus.one/). This I decided to post on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/), since I like to stay active there as well. Hope you enjoy the read!
 
 ### Ethereum Protocol Fellowship wiki entry on PBS
 
-Since February, 2024, I've been participating in the [Ethereum Protocol Fellowship Study Group](https://blog.ethereum.org/2024/02/07/epf-study-group), which encourages students to contribute to the wiki. Check out [here](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) the entry I wrote on Proposer-Builder Separation.
+Since February, 2024, I've been participating in the [Ethereum Protocol Fellowship Study Group](https://blog.ethereum.org/2024/02/07/epf-study-group), which encourages students to contribute to the wiki. Here's the [markdown file](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0) with the entry I wrote on Proposer-Builder Separation.
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
