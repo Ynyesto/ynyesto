@@ -117,6 +117,10 @@ This was a challenge to check my capability for a possible collaboration with th
 #### TruWeb3 ERC20 Cross Chain Mirror
 Similarly, the guys at [TruWeb3](https://truweb3.co/) challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology and I completed that as well!
 
+### Freelanche projects
+#### FilmChain vesting
+After successfully verifying the FILM token contract, I was hired by FilmChain to create a vesting contract for their early investors and team to have their tokens vested, with a one year cliff, with two different vesting schedules. Check out the [repo](https://github.com/arynyestos/FilmChainVesting)!
+
 ### Personal projects
 
 #### Carbon _defootprint_ dApp
