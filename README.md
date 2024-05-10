@@ -73,6 +73,7 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
 
 3. [Security and Auditing](https://updraft.cyfrin.io/courses/security): 
     1. [PasswordStore audit](https://github.com/arynyestos/PasswordStoreAudit)
+    2. [PuppyRaffle audit](https://github.com/arynyestos/PuppyRaffleAudit)
 </details>
 
 ### Alchemy University Road to Web3 program
