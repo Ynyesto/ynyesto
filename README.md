@@ -10,9 +10,11 @@ I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingenier
 
 ## Languages and tools
 
+
 <img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Solidity" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" alt="Foundry" width="50em" style="padding-right:2em" src="https://github.com/arynyestos/arynyestos/assets/33223441/04e173dc-64af-4ad0-baa1-1e8b2bb29244" />
+<img align="left" alt="Remix" width="50em" style="padding-right:2em" src="https://github.com/arynyestos/arynyestos/assets/33223441/e01f2868-8d51-4546-9249-76ea03036d08" />
 <img align="left" alt="Hardhat" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
 <img align="left" alt="NodeJS" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
