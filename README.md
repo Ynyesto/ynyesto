@@ -149,7 +149,7 @@ This was a piece of research I had to do to apply for a position at [Chorus One]
 
 ### Ethereum Protocol Fellowship wiki entry on PBS
 
-Since February, 2024, I've been participating in the [Ethereum Protocol Fellowship Study Group](https://blog.ethereum.org/2024/02/07/epf-study-group), which encourages students to contribute to the wiki. Here's the [markdown file](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0) with the entry I wrote on Proposer-Builder Separation.
+In early 2024, I participated in the [Ethereum Protocol Fellowship Study Group](https://blog.ethereum.org/2024/02/07/epf-study-group), which encourages students to contribute to the EPF wiki. Here's the [markdown file](https://github.com/arynyestos/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md) and a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0) with the entry I wrote on Proposer-Builder Separation, in gratitude for which the guys at EPF granted me a stipend to go to an Ethereum convention!
                     
 <!--
 **arynyestos/arynyestos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
