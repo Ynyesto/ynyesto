@@ -1,6 +1,6 @@
 # Antonio Rodríguez-Ynyesto 🛠️
 
-**`Blockchain Developer`**
+**`Blockchain Developer/Researcher - S. C. dev and co-founder at BitChill`**
 
 I'm an Industrial Technologies Engineer (M. Sc.) with a master's degree in Automation and Robotics (so that would be two MScs 😋) by [Technical University of Madrid](https://www.upm.es/). I've been working on software since I finished college and started learning about Blockchain in early 2022, and blockchain software development in the summer of the same year. I believe this technology will completely revolutionize the world, and once I realized this I decided I wanted to be a part of that revolution. Being an engineer, what made most sense to me was to become a Web3 dev/researcher. That is why over in mid 2022 I embarked on a learning journey that will hopefully continue full-time in a Web3 company soon.
 
