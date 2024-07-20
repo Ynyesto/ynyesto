@@ -13,7 +13,6 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 
 ## Languages and tools
 
-
 <img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Solidity" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" alt="Foundry" width="50em" style="padding-right:2em" src="https://github.com/arynyestos/arynyestos/assets/33223441/04e173dc-64af-4ad0-baa1-1e8b2bb29244" />
@@ -30,7 +29,9 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 &nbsp;
 
 ---
+
 </br>
+
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
