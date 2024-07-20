@@ -30,7 +30,7 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 &nbsp;
 
 ---
-
+</br>
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
