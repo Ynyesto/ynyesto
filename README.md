@@ -54,8 +54,9 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 #### Web 3 Projects
 Coming soon...
 
-### Alchemy University Ethereum Developer Bootcamp
-The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature workers have to endure, leveraging Chainlink's services, called SummerPay!
+### Chainlink CCIP bootcamp
+
+In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/arynyestos/CCIP-Bootcamp)!
 
 ### Cyfrin Updraft courses
 These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. Also, unlinke the other repos linked in this readme, no further explanations were added, but the links to the official repo were included instead, as well as the correspondence with Cyfrin Updraft's current courses.
@@ -85,6 +86,10 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
     2. [PuppyRaffle audit](https://github.com/arynyestos/PuppyRaffleAudit)
     3. [TSwap audit](https://github.com/arynyestos/TSwapAudit)
 </details>
+
+
+### Alchemy University Ethereum Developer Bootcamp
+The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature workers have to endure, leveraging Chainlink's services, called SummerPay!
 
 ### Alchemy University Road to Web3 program
 
