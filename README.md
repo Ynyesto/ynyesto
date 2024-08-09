@@ -35,25 +35,6 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
-### CodeCrypto Blockchain Engineer Master's Course
-The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
-
-#### Web 2 Projects
-The projects done after finishing all the lessons for the web 2 part of the course are featured below:
-<details closed>
-
-1. [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject): For the first project we made a faucet on a local Go-Ethereum network running on Docker. 
-2. [SQL](https://github.com/arynyestos/CodeCryptoSqlProject/blob/main/README.md): On the second project we put into practice some of the back end development concepts learnt during the course.
-3. [ETH e-commerce](https://github.com/arynyestos/CodeCryptoEthEcommerce): On the third project we leveraged both the local network created in the Faucet project and the database created on the SQL project. The latter was used as the product database of an e-commerce in which purchases would be made paying with ETH.
-4. [Design](https://github.com/arynyestos/CodeCryptoDesignProject): This was a project consisting only of a React front end. The aim was to focus on the aesthetic side of web development. 
-5. [Cryptography](https://github.com/arynyestos/CodeCryptoCryptography): On this project we learnt to different ways of encrypting and decrypting files with symmetric cryptography.
-6. Block Explorer: Coming soon...
-7. Ethereum network: Coming soon...
-</details>
-
-#### Web 3 Projects
-Coming soon...
-
 ### Chainlink CCIP bootcamp
 
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/arynyestos/CCIP-Bootcamp)!
@@ -87,10 +68,6 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
     3. [TSwap audit](https://github.com/arynyestos/TSwapAudit)
 </details>
 
-
-### Alchemy University Ethereum Developer Bootcamp
-The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature workers have to endure, leveraging Chainlink's services, called SummerPay!
-
 ### Alchemy University Road to Web3 program
 
 After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I will link the repo for each of them. 
@@ -108,6 +85,28 @@ After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-we
 9. Build a Token Swap Dapp with 0x API: Coming soon...
 10. Create a Decentralized Twitter with Lens Protocol: Coming soon...
 </details>
+
+### Alchemy University Ethereum Developer Bootcamp
+The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature workers have to endure, leveraging Chainlink's services, called SummerPay!
+
+### CodeCrypto Blockchain Engineer Master's Course
+The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules, when I decided I wanted to go all in into become a blockchain dev. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
+
+#### Web 2 Projects
+The projects done after finishing all the lessons for the web 2 part of the course are featured below:
+<details closed>
+
+1. [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject): For the first project we made a faucet on a local Go-Ethereum network running on Docker. 
+2. [SQL](https://github.com/arynyestos/CodeCryptoSqlProject/blob/main/README.md): On the second project we put into practice some of the back end development concepts learnt during the course.
+3. [ETH e-commerce](https://github.com/arynyestos/CodeCryptoEthEcommerce): On the third project we leveraged both the local network created in the Faucet project and the database created on the SQL project. The latter was used as the product database of an e-commerce in which purchases would be made paying with ETH.
+4. [Design](https://github.com/arynyestos/CodeCryptoDesignProject): This was a project consisting only of a React front end. The aim was to focus on the aesthetic side of web development. 
+5. [Cryptography](https://github.com/arynyestos/CodeCryptoCryptography): On this project we learnt to different ways of encrypting and decrypting files with symmetric cryptography.
+6. Block Explorer: Coming soon...
+7. Ethereum network: Coming soon...
+</details>
+
+#### Web 3 Projects
+Although CodeCrypto Academy promised that upon finishing the course students would have a project portfolio comprised of 7 EVM projects, this didn't turn out to be true. After much complaining about the low quality of the learning materials (well below the standards of the first half of the course) and the fact that no projects worth mentioning here were carried out, we got a certificate of completion stored in a HyperLedger network and no value for our money. After this terrible experience, my real learning started with all of the courses and projects listed above, as well as all the work showcased below.
 
 ### Hackathons
 
