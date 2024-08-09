@@ -39,11 +39,9 @@ This is work in progress. Here I will link the different projects I have done as
 
 #### Chainlink CCIP bootcamp
 
-##### recursasdfa
-
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/arynyestos/CCIP-Bootcamp)!
 
-### Cyfrin Updraft courses
+#### Cyfrin Updraft courses
 These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before Cyfrin Updraft was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. Also, unlinke the other repos linked in this readme, no further explanations were added, but the links to the official repo were included instead, as well as the correspondence with Cyfrin Updraft's current courses.
 
 <details closed>
@@ -72,7 +70,7 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
     3. [TSwap audit](https://github.com/arynyestos/TSwapAudit)
 </details>
 
-### Alchemy University Road to Web3 program
+#### Alchemy University Road to Web3 program
 
 After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I will link the repo for each of them. 
 
@@ -90,13 +88,13 @@ After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-we
 10. Create a Decentralized Twitter with Lens Protocol: Coming soon...
 </details>
 
-### Alchemy University Ethereum Developer Bootcamp
+#### Alchemy University Ethereum Developer Bootcamp
 The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/arynyestos/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/arynyestos/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature outdoor workers have to endure, leveraging Chainlink's services, called SummerPay!
 
-### CodeCrypto Blockchain Engineer Master's Course
+#### CodeCrypto Blockchain Engineer Master's Course
 The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules, when I decided I wanted to go all in into becoming a full-time blockchain dev. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
 
-#### Web 2 Projects
+##### Web 2 Projects
 The projects done after finishing all the lessons for the web 2 part of the course are featured below:
 <details closed>
 
@@ -109,7 +107,7 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 7. Ethereum network: Coming soon...
 </details>
 
-#### Web 3 Projects
+##### Web 3 Projects
 Although CodeCrypto Academy promised that upon finishing the course students would have a project portfolio comprised of 7 EVM projects, this didn't turn out to be true. After much complaining about the low quality of the learning materials (well below the standards of the first half of the course) and the fact that no projects worth mentioning here were carried out, we got a certificate of completion stored in a HyperLedger network and no value for our money. After this terrible experience, my real learning started with all of the courses and projects listed above, as well as all the work showcased below.
 
 ### Hackathons
@@ -137,10 +135,15 @@ This was a task I got from David, the CTO of [TruWeb3](https://truweb3.co/) who 
 This was a challenge to check my capability for a possible collaboration with the [FilmChain](https://filmchain.xyz/) project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
 
 ### Freelance projects
+
 #### FilmChain vesting
 After successfully verifying the FILM token contract, I was hired by FilmChain to create a vesting contract for their early investors and team to have their tokens vested, with a one year cliff, with two different vesting schedules. Check out the [repo](https://github.com/arynyestos/FilmChainVesting)!
 
 ### Personal projects
+
+#### BitChill
+
+This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK/DCAdApp/tree/smart-contracts/smart-contracts)!
 
 #### Carbon _defootprint_ dApp
 This was a personal project created for a POC presentation at my current company, in the railway sector. It consists of a smart contract deployed on the Sepolia testnet which simply stores the numbers representing the carbon footprint avoided by the user when they travel by train instead of flying. A React front end styled using Tailwind CSS was used to interact with the contarct. Check out the repo [here](https://github.com/arynyestos/TrainCarbonDefootprint)!
