@@ -114,7 +114,7 @@ Although CodeCrypto Academy promised that upon finishing the course students wou
 
 #### Vottun & Dextools hackathon
 
-The weekend of January 27th to 28th, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
+The weekend of January 27th to 28th of 2024, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
 
 #### Constellation Chainlink hackathon
 
