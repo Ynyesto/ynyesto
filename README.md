@@ -35,7 +35,9 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
-### Chainlink CCIP bootcamp
+### Courses
+
+#### Chainlink CCIP bootcamp
 
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/arynyestos/CCIP-Bootcamp)!
 
@@ -110,27 +112,27 @@ Although CodeCrypto Academy promised that upon finishing the course students wou
 
 ### Hackathons
 
-#### Block & Change hackathon
+#### Vottun & Dextools hackathon
 
-In October 2023 I participated in a hackathon organized by Block & Change. My team and I worked tirelessly for almost 48 hours with very little sleep, but it payed off, we *won the prize for best social innovation*. Please find [here](https://github.com/arynyestos/BlockChangeHackathon) the repo with the code we developed that weekend.
+The weekend of January 27th to 28th, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
 
 #### Constellation Chainlink hackathon
 
 From the 8th of November to the 10th of December of 2023 I participated in the Constellation Chainlink Hackathon. This one was much longer and my team and I had time to develop a much more complex project. Check out the project's [GitHub repo](https://github.com/CarlosAlegreUr/Constellation-ChainlinkHackathon-2023) and take a look at the [Devpost page](https://devpost.com/software/prompt-fighters) as well!
 
-#### Vottun & Dextools hackathon
+#### Block & Change hackathon
 
-The weekend of January 27th to 28th, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/arynyestos/VottunDextoolsHackathon)!
+In October 2023 I participated in a hackathon organized by Block & Change. My team and I worked tirelessly for almost 48 hours with very little sleep, but it payed off, we *won the prize for best social innovation*. Please find [here](https://github.com/arynyestos/BlockChangeHackathon) the repo with the code we developed that weekend.
 
 ### Recruitment challenges
 
 Below are the repos corresponding to challenges I solved to prove my skills in selection processes.
 
+#### TruWeb3 ERC20 Cross Chain Mirror
+This was a task I got from David, the CTO of [TruWeb3](https://truweb3.co/) who challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology. I completed it successfully using Chainlink's CCIP!
+
 #### FilmChain SC verification
 This was a challenge to check my capability for a possible collaboration with the [FilmChain](https://filmchain.xyz/) project, which I completed with solvency. Check out the [repo](https://github.com/arynyestos/FilmChainSCVerification)'s README explaining how I did it!
-
-#### TruWeb3 ERC20 Cross Chain Mirror
-Similarly, the guys at [TruWeb3](https://truweb3.co/) challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology and I completed that as well!
 
 ### Freelance projects
 #### FilmChain vesting
