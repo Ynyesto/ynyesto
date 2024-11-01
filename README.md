@@ -37,6 +37,10 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
+#### BitChill
+
+This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK/DCAdApp/tree/smart-contracts/smart-contracts)!
+
 ### Courses
 
 #### Chainlink CCIP bootcamp
@@ -144,11 +148,7 @@ This was a challenge to check my capability for a possible collaboration with th
 #### FilmChain vesting
 After successfully verifying the FILM token contract, I was hired by FilmChain to create a vesting contract for their early investors and team to have their tokens vested, with a one year cliff, with two different vesting schedules. Check out the [repo](https://github.com/arynyestos/FilmChainVesting)!
 
-### Personal projects
-
-#### BitChill
-
-This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK/DCAdApp/tree/smart-contracts/smart-contracts)!
+### Other personal projects
 
 #### Carbon _defootprint_ dApp
 This was a personal project created for a POC presentation at my current company, in the railway sector. It consists of a smart contract deployed on the Sepolia testnet which simply stores the numbers representing the carbon footprint avoided by the user when they travel by train instead of flying. A React front end styled using Tailwind CSS was used to interact with the contarct. Check out the repo [here](https://github.com/arynyestos/TrainCarbonDefootprint)!
