@@ -37,7 +37,7 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
 
-#### BitChill
+### BitChill
 
 This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK/DCAdApp/tree/smart-contracts/smart-contracts)!
 
