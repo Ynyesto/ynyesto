@@ -130,6 +130,9 @@ In October 2023 I participated in a hackathon organized by Block & Change. My te
 
 Below are the repos corresponding to challenges I solved to prove my skills in selection processes.
 
+#### Podproza Onchain Analysis
+For this technical challenge I dived into the Bitcoin chain and did some analytics with Python. Check it out [here](https://github.com/arynyestos/PodprozaTechnicalChallenge)!
+
 #### TruWeb3 ERC20 Cross Chain Mirror
 This was a task I got from David, the CTO of [TruWeb3](https://truweb3.co/) who challenged me to make this [ERC20 Cross Chain Mirror](https://github.com/arynyestos/ERC20CrossChainMirror) contract following TDD methodology. I completed it successfully using Chainlink's CCIP!
 
