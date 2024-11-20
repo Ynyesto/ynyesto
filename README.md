@@ -118,6 +118,15 @@ Although CodeCrypto Academy promised that upon finishing the course students wou
 
 ### Hackathons
 
+#### ETHGlobal Bangkok
+After [Devcon 7 South East Asia](https://devcon.org/en/) I participated in the [ETHGlobal](https://ethglobal.com/) [hackathon}(https://ethglobal.com/events/bangkok). My team and I created a tool for seamless migrations of ERC20 mainnet tokens to a multichain token on L2s, leveraging Scroll's L1SLOAD precompile to make the one time bridging possible, Vlayer's Time Travel feature to create an incentive system and Chainlink's CCIP and CCT standard to make the token multichain!
+
+My role in this project was smart contract developer. More precisely, I was the sole contributor to the CCIP part, while my colleagues focused on the other technologies, as well as the front-end and the submission and the pitch material. I was also the pitch lead, both at ETHGlobal's and the sponsor's booths.
+
+As you can see in our [project sumbission](https://ethglobal.com/showcase/migrator-ethbelgrade-7x4pc), **we won Blockscout's Pool Prize, Chainlink's Best use of Chainlink CCIP ($4,000) and Scroll`s Best Use Case of L1SLOAD (2nd place - $1,500)**, for a grand total of over $5,500!
+
+You can check out the repo [here](https://github.com/GianfrancoBazzani/ETHGlobalBKK)!
+
 #### Vottun & Dextools hackathon
 
 The weekend of January 27th to 28th of 2024, I participated in the [hackathon](https://vottun.com/hackathon/) organized by Vottun and Dextools and sponsored by Rootstock. My team and I came up a dApp for automatized DCA Bitcoin purchases and **won the first prize**. Make sure to check out the [repo](https://github.com/ynyesto/VottunDextoolsHackathon)!
