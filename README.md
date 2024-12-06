@@ -169,11 +169,11 @@ This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by O
 
 ## Researcher & Technical Writer Portfolio
 
+Below you can see the different research projects I've carried out. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research.
+
 ### The Rekt Games Writeup
 
 In early December of 2024 I published a writeup of The Rekt Games, a CTF by The Red Guild I undertook during Devcon. You can read it [here](https://medium.com/@ynyesto/how-i-solved-the-rekt-games-ctf-by-the-red-guild-at-devcon-7-sea-227226d8106c)!
-
-Below you can see the different research projects I've carried out. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research.
 
 ### Quantitative research directions for staking providers
 
