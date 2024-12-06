@@ -167,7 +167,7 @@ This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by O
 
 ---
 
-## Researcher & technical writer portfolio
+## Researcher & Technical Writer Portfolio
 
 ### The Rekt Games Writeup
 
