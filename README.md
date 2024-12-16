@@ -173,7 +173,7 @@ Below you can see the different research projects I've carried out and technical
 
 ### Ethernaut Writeups
 
-In mid December of 2024 I finished [The Ethernaut](https://ethernaut.openzeppelin.com/<), OpenZeppelin's cybersecurity wargame. The latest two levels (32 and 33) had been published only a few weeks earlier and since I couldn't find any writeups after solving them, I decided to publish my own. You can read them both on Medium!
+In mid December of 2024 I finished [The Ethernaut](https://ethernaut.openzeppelin.com/<), OpenZeppelin's smartc contract security wargame. The latest two levels (32 and 33) had been published only a few weeks earlier and since I couldn't find any writeups after solving them, I decided to publish my own. You can read them both on Medium!
 - [Level 32: Impersonator](https://medium.com/@ynyesto/ethernaut-32-impersonator-825c0ea9d76d)
 - [Level 33: Magical Animal Carousel](https://medium.com/@ynyesto/ethernaut-33-magical-animal-carousel-3aff78fe67be)
 
