@@ -169,11 +169,17 @@ This is a repo demonstrating how to solve the Oasis Riddle, a fun challenge by O
 
 ## Researcher & Technical Writer Portfolio
 
-Below you can see the different research projects I've carried out. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research.
+Below you can see the different research projects I've carried out and technical articles I've written. I try to develop as wide a skillset as possible, not limiting myself to software development, but also engaging in blockchain related research and technical writing!
+
+### Ethernaut Writeups
+
+In mid December of 2024 I finished [The Ethernaut](https://ethernaut.openzeppelin.com/<), OpenZeppelin's cybersecurity wargame. The latest two levels (32 and 33) had been published only a few weeks earlier and since I couldn't find any writeups after solving them, I decided to publish my own. You can read them both on Medium!
+- [Level 32: Impersonator](https://medium.com/@ynyesto/ethernaut-32-impersonator-825c0ea9d76d)
+- [Level 33: Magical Animal Carousel](https://medium.com/@ynyesto/ethernaut-33-magical-animal-carousel-3aff78fe67be)
 
 ### The Rekt Games Writeup
 
-In early December of 2024 I published a writeup of The Rekt Games, a CTF by The Red Guild I undertook during Devcon. You can read it [here](https://medium.com/@ynyesto/how-i-solved-the-rekt-games-ctf-by-the-red-guild-at-devcon-7-sea-227226d8106c)!
+In early December of 2024 I published a writeup of The Rekt Games, a CTF by [The Red Guild](https://theredguild.org/) I undertook during Devcon, which also served as my learning artifact for the Devcon Scholars Program, for which I was chosen by the Ethereum Foundation. You can read it [here](https://medium.com/@ynyesto/how-i-solved-the-rekt-games-ctf-by-the-red-guild-at-devcon-7-sea-227226d8106c)!
 
 ### Quantitative research directions for staking providers
 
