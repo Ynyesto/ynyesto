@@ -114,7 +114,7 @@ The projects done after finishing all the lessons for the web 2 part of the cour
 </details>
 
 ##### Web 3 Projects
-Although CodeCrypto Academy promised that upon finishing the course students would have a project portfolio comprised of 7 EVM projects, this didn't turn out to be true. After much complaining about the low quality of the learning materials (well below the standards of the first half of the course) and the fact that no projects worth mentioning here were carried out, we got a certificate of completion stored in a HyperLedger network and no value for our money. After this terrible experience, my real learning started with all of the courses and projects listed above, as well as all the work showcased below.
+Although CodeCrypto Academy promised that upon finishing the course students would have a project portfolio comprised of 7 EVM projects, this didn't turn out to be true. After much complaining about the low quality of the learning materials (well below the standards of the first half of the course) and the fact that no projects worth mentioning here were carried out, we got a certificate of completion stored in a HyperLedger network and no value for our money, since the Web2 concepts learnt during the first half of the course were "nice-to-haves", but definitely not what we had payed for. After this terrible experience, my real learning started with all of the courses and projects listed above, as well as all the work showcased below.
 
 ### Hackathons
 
