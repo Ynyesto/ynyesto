@@ -43,6 +43,10 @@ BitChill is an automated, non-custodial and yield-bearing DCA dApp for periodic 
 
 ### Courses
 
+#### Chainlink RWA bootcamp
+
+In October of 2024 I participated in Chainilnk's bootcamp on tokenization of real world assets. You can check out the repo containing my work [here](https://github.com/Ynyesto/Chainlink-RWA-Bootcamp)!
+
 #### Chainlink CCIP bootcamp
 
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/ynyesto/CCIP-Bootcamp)!
