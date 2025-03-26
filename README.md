@@ -43,6 +43,19 @@ BitChill is an automated, non-custodial and yield-bearing DCA dApp for periodic 
 
 ### Courses
 
+#### Uniswap Hooks Incubator
+
+In early 2025 (January to March) I participated in the fourth cohort of the [Uniswap Hooks Incubator](https://uniswap.atrium.academy/). During the course we learnt by doing: I developed five different hooks during the workshops, and one final hook as my Capstone project for the hookathon. 
+
+The five workshop hooks were:
+- [Points hook](https://github.com/Ynyesto/UHI4-points-hook)
+- [Gas price dynamic fees hook](https://github.com/Ynyesto/UHI4-gas-price-dynamic-fees)
+- [Limit orders](https://github.com/Ynyesto/UHI4-limit-orders)
+- [CSMM no-op hook](https://github.com/Ynyesto/UHI4-csmm-noop-hook)
+- [Swap and bridge to Optimism hook](https://github.com/Ynyesto/UHI-swap-and-bridge-op)
+
+For my Capstone project I developed a hook... (to be disclosed)
+
 #### Chainlink RWA bootcamp
 
 In October of 2024 I participated in Chainilnk's bootcamp on tokenization of real world assets. You can check out the repo containing my work [here](https://github.com/Ynyesto/Chainlink-RWA-Bootcamp)!
