@@ -39,7 +39,7 @@ This is work in progress. Here I will link the different projects I have done as
 
 ### BitChill
 
-BitChill is an automated, non-custodial and yield-bearing DCA dApp for periodic bitcoin purchases, deployed on Rootstock mainnet. This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK/DCAdApp/tree/smart-contracts/smart-contracts)!
+BitChill is an automated, non-custodial and yield-bearing DCA dApp for periodic bitcoin purchases, deployed on Rootstock mainnet. This is the project I'm currently most dedicated to as a Smart Contract Developer and Co-Founder. After winning the Vottun & DexTools Hackathon, my team and I achieved a Rootstock grant to carry on with the development of the project. You can check out my work [here](https://github.com/BitChillRSK)!
 
 ### Courses
 
