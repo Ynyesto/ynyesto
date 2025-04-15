@@ -1,13 +1,13 @@
 # Antonio Rodríguez-Ynyesto 🛠️
 
-**`Blockchain Developer/Researcher`** </br>
+**`Blockchain Developer at Umbrella Research`** </br>
 **`Co-founder and SC Dev at BitChill`**
 
-I'm an Industrial Technologies Engineer (M. Sc.) with an additional master's degree in Automation and Robotics by [Technical University of Madrid](https://www.upm.es/). I've been working on software since I finished college and started learning about Blockchain in early 2022, and blockchain software development in the summer of the same year. I believe this technology will completely revolutionize the world, and once I realized this I decided I wanted to be a part of that revolution. Being an engineer, what made most sense to me was to become a Web3 dev/researcher. That is why over in mid 2022 I embarked on a learning journey that will hopefully continue full-time in a Web3 company soon.
+I'm an Industrial Technologies Engineer (M. Sc.) with an additional master's degree in Automation and Robotics from the [Technical University of Madrid](https://www.upm.es/). I've been working in software since finishing college, and started learning about Blockchain in early 2022, diving into blockchain software development that same summer. 
 
-I've taken courses such as CryptoZombies, CodeCrypto Academy's [Máster Ingeniero Blockchain](https://codecrypto.academy/master-ingeniero-blockchain/), Alchemy University's [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) or [Cyfrin Updraft](https://updraft.cyfrin.io/)'s Solidity 101, Foundry 101 and Advanced Foundry. Right now my main occupation (besides my full-time job) is to keep creating a portfolio of projects that make my profile attractive for Web 3 companies. I've already participated in hackathons like [Constellation](https://chain.link/hackathon) by Chainlink and [Dextools & Vottun](https://vottun.com/hackathon/). After the latter, which my team and I won, we applied for a [Rootstock grant](https://rootstock.io/grants/) and got it, which provides financial support for the development of our project, **[Bitchill](https://github.com/BitChillRSK/DCAdApp)**, in which I'm the **smart contract developer**.
+Over the next two and a half years I combined my full-time job with taking courses, competing on hackathons, tackling personal projects and technical challenges, attending conferences and events, and even writing a few articles. In 2024 I co-founded **[Bitchill](https://github.com/BitChillRSK/DCAdApp)**, a Rootstock grantee project for non-custodial, automated, and yield-bearing DCA into bitcoin (rBTC), where I'm the **smart contract developer**. In 2025 I landed my first Web3 job as a Blockchain Developer at [Umbrella Research](https://www.linkedin.com/company/umbrella-research-sl/).
 
-Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since Chainlink is, to my mind, one of the key actors in the new paradigm that is coming. 
+I’m always open to part-time or contract-based collaborations that align with my interests, especially those involving smart contracts, decentralized protocols, or mission-driven blockchain projects. Feel free to reach out at ynyesto@gmail.com
 
 ---
 
@@ -36,6 +36,10 @@ Also, I am a [Chainlink Advocate](https://chain.link/community/advocates), since
 
 ## Dev portfolio
 This is work in progress. Here I will link the different projects I have done as a developer since 2022.
+
+### Umbrella Research 
+
+In March of 2025 I joined [Umbrella Research](https://github.com/umbrellaresearch/) as a Blockchain Developer to work on MEV-related DeFi strategies.
 
 ### BitChill
 
