@@ -3,7 +3,7 @@
 **`Blockchain Developer at Umbrella Research`** </br>
 **`Co-founder and SC Dev at BitChill`**
 
-I'm an Industrial Technologies Engineer (M. Sc.) with an additional master's degree in Automation and Robotics from the [Technical University of Madrid](https://www.upm.es/). I've been working in software since finishing college, and started learning about Blockchain in early 2022, diving into blockchain software development that same summer. 
+I'm an Industrial Technologies Engineer (M. Sc.) with an additional master's degree in Automation and Robotics from the [Technical University of Madrid](https://www.upm.es/) (UPM). I've been working in software since finishing college, and started learning about Blockchain in early 2022, diving into blockchain software development that same summer. 
 
 Over the next two and a half years I combined my full-time job with taking courses, competing on hackathons, tackling personal projects and technical challenges, attending conferences and events, and even writing a few articles. In 2024 I co-founded **[Bitchill](https://github.com/BitChillRSK/DCAdApp)**, a Rootstock grantee project for non-custodial, automated, and yield-bearing DCA into bitcoin (rBTC), where I'm the **smart contract developer**. In 2025 I landed my first Web3 job as a Blockchain Developer at [Umbrella Research](https://www.linkedin.com/company/umbrella-research-sl/).
 
