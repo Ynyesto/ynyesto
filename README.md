@@ -58,7 +58,7 @@ The five workshop hooks were:
 - [CSMM no-op hook](https://github.com/Ynyesto/UHI4-csmm-noop-hook)
 - [Swap and bridge to Optimism hook](https://github.com/Ynyesto/UHI-swap-and-bridge-op)
 
-For my Capstone project I developed a hook... (to be disclosed)
+For my Capstone project I developed a very simple POC for a hook that could be useful to BitChill. You can check it out [here](https://github.com/Ynyesto/UHI4-capstone-commision-hook)!
 
 #### Chainlink RWA bootcamp
 
