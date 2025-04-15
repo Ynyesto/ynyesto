@@ -35,7 +35,7 @@ I’m always open to part-time or contract-based collaborations that align with 
 </br>
 
 ## Dev portfolio
-This is work in progress. Here I will link the different projects I have done as a developer since 2022.
+This is a work in progress! I've been adding projects to this readme since 2022 and plan to keep doing so. It is starting to get a bit crowded, and of course the older projects aren't as sharp as the most recent ones, so I may refactor it some time soon, but for now I think it reflects my blockchain journey pretty well 😊.
 
 ### Umbrella Research 
 
