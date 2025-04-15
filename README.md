@@ -73,7 +73,7 @@ In October of 2024 I participated in Chainilnk's bootcamp on tokenization of rea
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/ynyesto/CCIP-Bootcamp)!
 
 #### Cyfrin Updraft courses
-These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before [Cyfrin Updraft](https://www.cyfrin.io/updraft) was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. Also, unlinke the other repos linked in this readme, no further explanations were added, but the links to the official repo were included instead, as well as the correspondence with Cyfrin Updraft's current courses.
+These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before [Cyfrin Updraft](https://www.cyfrin.io/updraft) was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. 
 
 <details closed>
 
@@ -103,7 +103,7 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
 
 #### Alchemy University Road to Web3 program
 
-After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I will link the repo for each of them. 
+After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-week [program](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3) to help new blockchain devs go from beginner to advanced. Below I linked the repos for the projects I thought were most interesting for my learning purposes. 
 
 <details closed>
   
@@ -113,17 +113,13 @@ After completion of the Ethereum Developer Bootcamp, Alchemy proposes this 10-we
 4. [Create an NFT Gallery](https://github.com/ynyesto/RoadToWeb3NftGallery): On this project, we created an awesome NFT gallery with Next.js and Tailwind, to display NFTs fetching by wallet or collection.
 5. [Create a Dynamic NFT with Chainlink](https://github.com/ynyesto/RoadToWeb3Chainlink): This was a project in which we leveraged three of Chainlink's services to create a dynamic NFT collection whose NFTs changed their metadata according to Bitcoin's price trend in a selected interval, choosing at random between three different images for each trend.
 6. [Build a Staking dApp](https://github.com/ynyesto/RoadToWeb3StakingDapp): This was a great project to learn about Scaffold ETH and its different functionalities.
-7. Build an NFT Marketplace from Scratch: Coming soon...
-8. Build a Betting Game on Optimism: Coming soon...
-9. Build a Token Swap Dapp with 0x API: Coming soon...
-10. Create a Decentralized Twitter with Lens Protocol: Coming soon...
 </details>
 
 #### Alchemy University Ethereum Developer Bootcamp
-The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/ynyesto/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/ynyesto/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a payment system for automatic payments adjusted to the temperature outdoor workers have to endure, leveraging Chainlink's services, called SummerPay!
+The Ethereum Developer Bootcamp was very high quality course in which I learnt all about Ethereum from the very basics (accounting model, Merkle trees...) to Solidity development. The course was divided in eight modules, the last of which was a final project that had to be proposed by the student and only after validation by AU would the completion NFT be awarded. Take a look at the [repo](https://github.com/ynyesto/AUEthDevBootcamp) containing all the work done throughout the course, including the [final project](https://github.com/ynyesto/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project), a system for automatic payments adjusted to the temperature outdoor workers have to endure, leveraging Chainlink's services (custom oracle and upkeep), called SummerPay!
 
 #### CodeCrypto Blockchain Engineer Master's Course
-The CodeCrypto course was a 10 month program I signed up for after completing all of the CryptoZombies modules, when I decided I wanted to go all in into becoming a full-time blockchain dev. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
+The CodeCrypto course was a 10 month program I signed up for after completing CryptoZombies, when I decided I wanted to go all in to become a full-time blockchain dev. In it, I learnt all about web 3 development, starting from web 2 technologies like HTML, CSS, JavaScript, Node.js, Express, Docker or Kubernetes.
 
 ##### Web 2 Projects
 The projects done after finishing all the lessons for the web 2 part of the course are featured below:
