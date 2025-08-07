@@ -46,6 +46,21 @@ BitChill is an automated, non-custodial and yield-bearing DCA dApp for periodic 
 
 ### Courses
 
+#### Aave V3 Protocol Development
+
+In August of 2025 I took this phoenomenal Cyfrin Updraft course on Aave V3, where I learnt the fundamentals of Aave and how to build apps that interact with the #1 lending protocol of the DeFi landscape. You can check out the course exerices [here](https://github.com/Ynyesto/CyfrinUpdraftAaveV3/tree/main/foundry/exercises)!
+
+#### Cyfrin Updraft Smart Contract Security
+
+In August of 2025 I finished Cyfrin Updraft's [Smart Contract Security](https://updraft.cyfrin.io/courses/security) course, in which I got my hands dirty with six different audits, learning all about manual review, static analysis tools (Slither, Aderyn), fuzz testing, and reporting; as well as concepts like DoS, reentrancy, AMMs, flash loans, oracle manipulation, bridges or MEV. You can check out below the audited code below!
+
+    1. [PasswordStore audit](https://github.com/ynyesto/PasswordStoreAudit)
+    2. [PuppyRaffle audit](https://github.com/ynyesto/PuppyRaffleAudit)
+    3. [TSwap audit](https://github.com/ynyesto/TSwapAudit)
+    4. [ThunderLoan audit](https://github.com/ynyesto/ThunderLoanAudit)
+    5. [BossBridge audit](https://github.com/ynyesto/BossBridgeAudit)
+    6. [VaultGuardians audit](https://github.com/ynyesto/VaultGuardiansAudit)
+    
 #### Uniswap Hooks Incubator
 
 In early 2025 (January to March) I participated in the fourth cohort of the [Uniswap Hooks Incubator](https://uniswap.atrium.academy/). During the course we learnt by doing: I developed five different hooks during the workshops, and one final hook as my Capstone project for the hookathon. 
@@ -71,7 +86,7 @@ In October of 2024 I participated in Chainilnk's bootcamp on tokenization of rea
 
 In August of 2024 I completed the first ever Chainlink CCIP Bootcamp. You can find the repo containing all the work done during the course [here](https://github.com/ynyesto/CCIP-Bootcamp)!
 
-#### Cyfrin Updraft courses
+#### Cyfrin Updraft Foundry courses
 These are probably some of the most complete and highest standard courses out there when it comes to learning Solidity and Foundry. I took these before [Cyfrin Updraft](https://www.cyfrin.io/updraft) was even launched, in the form of Patrick Collin's [Solidity Foundry Course](https://youtu.be/umepbfKp5rI?si=DkXsESBdLM262FiD), which was then divided into these shorter courses to be uploaded to Patrick's new platform. Below you can find the code developed for some of the course's modules, since not all of them involved coding. 
 
 <details closed>
@@ -92,12 +107,6 @@ Also, below you can see the 15 NFT badges I achieved by completing all the chall
 <p align="center">
   <img src="https://github.com/ynyesto/ynyesto/assets/33223441/7efaeb5d-4424-4688-bdf6-100a2292dd0b">
 </p>
-
-
-3. [Security and Auditing](https://updraft.cyfrin.io/courses/security): 
-    1. [PasswordStore audit](https://github.com/ynyesto/PasswordStoreAudit)
-    2. [PuppyRaffle audit](https://github.com/ynyesto/PuppyRaffleAudit)
-    3. [TSwap audit](https://github.com/ynyesto/TSwapAudit)
 </details>
 
 #### Alchemy University Road to Web3 program
