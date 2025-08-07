@@ -54,12 +54,12 @@ In August of 2025 I took this phoenomenal Cyfrin Updraft course on Aave V3, wher
 
 In August of 2025 I finished Cyfrin Updraft's [Smart Contract Security](https://updraft.cyfrin.io/courses/security) course, in which I got my hands dirty with six different audits, learning all about manual review, static analysis tools (Slither, Aderyn), fuzz testing, and reporting; as well as concepts like DoS, reentrancy, AMMs, flash loans, oracle manipulation, bridges or MEV. You can check out below the audited code below!
 
-    1. [PasswordStore audit](https://github.com/ynyesto/PasswordStoreAudit)
-    2. [PuppyRaffle audit](https://github.com/ynyesto/PuppyRaffleAudit)
-    3. [TSwap audit](https://github.com/ynyesto/TSwapAudit)
-    4. [ThunderLoan audit](https://github.com/ynyesto/ThunderLoanAudit)
-    5. [BossBridge audit](https://github.com/ynyesto/BossBridgeAudit)
-    6. [VaultGuardians audit](https://github.com/ynyesto/VaultGuardiansAudit)
+1. [PasswordStore audit](https://github.com/ynyesto/PasswordStoreAudit)
+2. [PuppyRaffle audit](https://github.com/ynyesto/PuppyRaffleAudit)
+3. [TSwap audit](https://github.com/ynyesto/TSwapAudit)
+4. [ThunderLoan audit](https://github.com/ynyesto/ThunderLoanAudit)
+5. [BossBridge audit](https://github.com/ynyesto/BossBridgeAudit)
+6. [VaultGuardians audit](https://github.com/ynyesto/VaultGuardiansAudit)
     
 #### Uniswap Hooks Incubator
 
