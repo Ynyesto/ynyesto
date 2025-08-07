@@ -52,7 +52,7 @@ In August of 2025 I took this phoenomenal Cyfrin Updraft course on Aave V3, wher
 
 #### Cyfrin Updraft Smart Contract Security
 
-In August of 2025 I finished Cyfrin Updraft's [Smart Contract Security](https://updraft.cyfrin.io/courses/security) course, in which I got my hands dirty with six different audits, learning all about manual review, static analysis tools (Slither, Aderyn), fuzz testing, and reporting; as well as concepts like DoS, reentrancy, AMMs, flash loans, oracle manipulation, bridges or MEV. You can check out below the audited code below!
+In August of 2025 I finished Cyfrin Updraft's [Smart Contract Security](https://updraft.cyfrin.io/courses/security) course, in which I got my hands dirty with six different audits, learning all about manual review, static analysis tools (Slither, Aderyn), fuzz testing, and reporting; as well as concepts like DoS, reentrancy, AMMs, flash loans, oracle manipulation, bridges or MEV. You can check out the repos with the audited code below!
 
 <details closed>
 1. [PasswordStore audit](https://github.com/ynyesto/PasswordStoreAudit)
