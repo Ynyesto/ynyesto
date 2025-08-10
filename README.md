@@ -39,7 +39,7 @@ This is a work in progress! I've been adding projects to this readme since 2022 
 
 ### Umbrella Research 
 
-In March of 2025 I joined [Umbrella Research](https://github.com/umbrellaresearch/) as a Blockchain Developer to work on MEV-related DeFi strategies. Here I work mainly as a TypeScript back-end dev, though constantly looking at Solidity code and interacting with smart contracts and event info, as well as some FE.
+In March of 2025 I joined [Umbrella Research](https://github.com/umbrellaresearch/) as a Blockchain Developer to work on MEV-related DeFi strategies. Here I work mainly as a TypeScript back-end dev, though constantly looking at Solidity code and interacting with smart contracts and event info, as well as some FE work.
 
 ### BitChill
 
