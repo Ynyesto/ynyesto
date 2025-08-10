@@ -15,6 +15,7 @@ I’m always open to part-time or contract-based collaborations that align with 
 
 <img align="left" alt="Solidity" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" alt="Foundry" width="50em" style="padding-right:2em" src="https://github.com/ynyesto/ynyesto/assets/33223441/04e173dc-64af-4ad0-baa1-1e8b2bb29244" />
+<img align="left" alt="TypeScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Remix" width="50em" style="padding-right:2em" src="https://github.com/ynyesto/ynyesto/assets/33223441/e01f2868-8d51-4546-9249-76ea03036d08" />
 <img align="left" alt="Hardhat" width="50em" style="padding-right:2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
@@ -38,7 +39,7 @@ This is a work in progress! I've been adding projects to this readme since 2022 
 
 ### Umbrella Research 
 
-In March of 2025 I joined [Umbrella Research](https://github.com/umbrellaresearch/) as a Blockchain Developer to work on MEV-related DeFi strategies.
+In March of 2025 I joined [Umbrella Research](https://github.com/umbrellaresearch/) as a Blockchain Developer to work on MEV-related DeFi strategies. Here I work mainly as a TypeScript back-end dev, though constantly looking at Solidity code and interacting with smart contracts and event info, as well as some FE.
 
 ### BitChill
 
