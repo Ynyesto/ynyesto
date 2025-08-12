@@ -155,7 +155,7 @@ After [Devcon 7 South East Asia](https://devcon.org/en/) I participated in the [
 
 My role in this project was smart contract developer. More precisely, I was the sole contributor to the CCIP part, while my colleagues focused on the other technologies, as well as the front-end and the submission and the pitch material. I was also the pitch lead, both at ETHGlobal's and the sponsor's booths.
 
-As you can see in our [project sumbission](https://ethglobal.com/showcase/migrator-ethbelgrade-7x4pc), **we won Blockscout's Pool Prize, Chainlink's Best use of Chainlink CCIP ($4,000) and Scroll`s Best Use Case of L1SLOAD (2nd place - $1,500)**, for a grand total of over $5,500!
+As you can see in our [project sumbission](https://ethglobal.com/showcase/migrator-ethbelgrade-7x4pc), **we won Blockscout's Pool Prize, Chainlink's Best use of Chainlink CCIP ($4,000) and Scroll's Best Use Case of L1SLOAD (2nd place - $1,500)**, for a grand total of over $5,500!
 
 You can check out the repo [here](https://github.com/GianfrancoBazzani/ETHGlobalBKK)!
 
