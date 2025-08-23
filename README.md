@@ -61,7 +61,6 @@ In August of 2025 I finished Cyfrin Updraft's [Smart Contract Security](https://
 3. [TSwap audit](https://github.com/ynyesto/TSwapAudit)
 4. [ThunderLoan audit](https://github.com/ynyesto/ThunderLoanAudit)
 5. [BossBridge audit](https://github.com/ynyesto/BossBridgeAudit)
-</details>
 
 After completing all the training audits with the course's walk-through videos, I undertook the final audit of the [VaultGuardians](https://github.com/ynyesto/VaultGuardiansAudit) project.
 
@@ -70,8 +69,7 @@ Also, below you can see the 8 NFT badges I achieved by completing all the challe
 <p align="center">
     <img width="385" height="480" alt="image" src="https://github.com/user-attachments/assets/d898e992-4edb-4fa4-88d2-7ada04e09bf4" />
 </p>
-
-
+</details>
     
 #### Uniswap Hooks Incubator
 
