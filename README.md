@@ -1,7 +1,7 @@
 # Antonio Rodríguez-Ynyesto 🛠️
 
 **`Blockchain Developer at Umbrella Research`** </br>
-**`Co-founder and SC Dev at BitChill`**
+**`Founder and Tech Lead at BitChill`**
 
 I'm an Industrial Technologies Engineer (M. Sc.) with an additional master's degree in Automation and Robotics from the [Technical University of Madrid](https://www.upm.es/) (UPM). I've been working in software since finishing college, and started learning about Blockchain in early 2022, diving into blockchain software development that same summer. 
 
