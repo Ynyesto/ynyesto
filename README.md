@@ -102,15 +102,18 @@ These are probably some of the most complete and highest standard courses out th
 <details closed>
 
 1. [Foundry Fundamentals](https://updraft.cyfrin.io/courses/foundry): 
-    1. [Fund Me contract](https://github.com/ynyesto/SolidityFoundryCourse-Lesson7): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-7-foundry-fund-me).
-    2. [Smart Contract Lottery](https://github.com/ynyesto/SolidityFoundryCourse-Lesson9): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-9-foundry-smart-contract-lottery).
+    1. [Fund Me contract](https://github.com/ynyesto/SolidityFoundryCourse-Lesson7)
+    2. [Smart Contract Lottery](https://github.com/ynyesto/SolidityFoundryCourse-Lesson9)
 2. [Advanced Foundry](https://updraft.cyfrin.io/courses/advanced-foundry): 
-    1. [ERC20s](https://github.com/ynyesto/SolidityFoundryCourse-Lesson10): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-10-foundry-erc20s).
-    2. [NFTs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson11): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-11-foundry-nfts--moodnft).
-    3. [Decentralized Stablecoin](https://github.com/ynyesto/SolidityFoundryCourse-Lesson12): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-12-foundry-defi--stablecoin-the-pinnacle-project-get-here).
-    4. [Upgradeable Smart Contracts](https://github.com/ynyesto/SolidityFoundryCourse-Lesson13): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-13-foundry-upgrades).
-    5. [DAOs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson14): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-14-foundry-dao--governance).
-    6. [Security](https://github.com/ynyesto/SolidityFoundryCourse-Lesson15): Official [repo](https://github.com/Cyfrin/foundry-full-course-f23#lesson-15-smart-contract-security--auditing-for-developers).
+    1. [ERC20s](https://github.com/ynyesto/SolidityFoundryCourse-Lesson10)
+    2. [NFTs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson11)
+    3. [Decentralized Stablecoin](https://github.com/ynyesto/SolidityFoundryCourse-Lesson12)
+    4. [Cross-chain Rebase Token](https://github.com/Ynyesto/ccip-rebase-token)
+    5. [Merkle Airdrop](https://github.com/Ynyesto/merkle-airdrop)
+    6. [Upgradeable Smart Contracts](https://github.com/ynyesto/SolidityFoundryCourse-Lesson13)
+    7. [Account Abstraction](https://github.com/Ynyesto/account-abstraction)
+    8. [DAOs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson14)
+    9. [Security](https://github.com/ynyesto/SolidityFoundryCourse-Lesson15)
 
 Also, below you can see the 15 NFT badges I achieved by completing all the challenges of the course, one at the end of each lesson:
 
