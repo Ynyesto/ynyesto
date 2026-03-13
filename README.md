@@ -25,7 +25,7 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 ---
 
-## What stands out
+## About me
 
 - **Production delivery:** I have shipped a real Web3 product to mainnet, which currently has active users and TVL.
 - **Protocol-facing work:** My work spans smart contracts, DeFi integrations, on-chain data, back-end systems, and some front-end.
@@ -34,8 +34,7 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 ---
 
-## Hackathons and technical wins
-
+## Hackathons
 
 | Event                       | Project                                                                                    | Result                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
