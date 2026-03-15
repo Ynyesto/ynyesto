@@ -18,9 +18,10 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 | Project                                                                               | My role                                 | Why it matters                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[BitChill](https://github.com/BitChillRSK)**                                        | Founder and Tech Lead                   | Shipped an automated, non-custodial and yield-bearing DCA dApp to **Rootstock mainnet** with real users and TVL. Winner of the Vottun & DexTools Hackathon and later backed by a Rootstock grant. |
-| **[Umbrella Research](https://github.com/umbrellaresearch/)**                         | Blockchain Developer                    | Build back-end systems and protocol integrations for DeFi workflows, working mainly in TypeScript with regular Solidity and on-chain data exposure.                                |
-| **[FilmChain Vesting](https://github.com/ynyesto/FilmChainVesting)**                  | Freelance Smart Contract Developer      | Delivered a production vesting contract for early investors and team allocations after first completing the project's token verification challenge.                                |
+| **[Umbrella Research](https://github.com/umbrellaresearch/)**                         | Blockchain Developer                    | Build back-end systems and protocol integrations for DeFi workflows, working mainly in TypeScript with regular Solidity and on-chain data exposure.                            |
 | **[ETHGlobal Bangkok - Migrator](https://github.com/GianfrancoBazzani/ETHGlobalBKK)** | Smart Contract Developer and pitch lead | Built the CCIP part of an ERC20 L1 to multichain L2 migration tool. Won Chainlink Best Use of CCIP, Scroll L1SLOAD 2nd place, and Blockscout pool-prize.                                 |
+| **Tropykus (Immunefi)** | Bug bounty submission | Paid low-severity finding on [Tropykus](https://immunefi.com/bounty/tropykus/) via Immunefi. [POC and writeup](https://gist.github.com/Ynyesto/f12cc41085e63da816d72e7a47ec1616). |                                |
+| **[FilmChain Vesting](https://github.com/ynyesto/FilmChainVesting)**                  | Freelance Smart Contract Developer      | Delivered a production vesting contract for early investors and team allocations after first completing the project's token verification challenge.    
 
 
 ---
@@ -53,6 +54,8 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 - **[The Rekt Games writeup](https://medium.com/@ynyesto/how-i-solved-the-rekt-games-ctf-by-the-red-guild-at-devcon-7-sea-227226d8106c)**: learning artifact for the Ethereum Foundation Devcon Scholars Program.
 - **[PBS research entry](https://github.com/ynyesto/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md)**: contribution to the Ethereum Protocol Fellowship Study Group, with related [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0).
 - **[Chorus One research piece](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)**: quantitative research directions for staking providers.
+- **[pk-keychain-management](https://github.com/Ynyesto/pk-keychain-management)**: local key management so private keys never live in `.env`.
+- **[ERC-Conditional-Tokens (EIP contribution)](https://github.com/Ynyesto/ERC-Conditional-Tokens)**: contributed to an EIP for conditional tokens; still early and not yet widely adopted.
 
 ---
 
@@ -64,7 +67,8 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 - **Alchemy University**: [Ethereum Developer Bootcamp](https://github.com/ynyesto/AUEthDevBootcamp), including the [SummerPay final project](https://github.com/ynyesto/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project).
 - **Cyfrin Updraft Foundry track**: ERC20s, NFTs, stablecoin, CCIP rebase, merkle airdrop, upgrades, account abstraction, DAOs, and security-focused exercises.
 
-**More repos and coursework**
+<details>
+<summary><b>More repos and coursework</b></summary>
 
 ### Cyfrin security audits
 
@@ -85,26 +89,26 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 ### Additional Solidity and dApp repos
 
-- [Cyfrin Updraft AaveV3](https://github.com/Ynyesto/CyfrinUpdraftAaveV3)
-- [Fund Me](https://github.com/ynyesto/SolidityFoundryCourse-Lesson7)
-- [Lottery](https://github.com/ynyesto/SolidityFoundryCourse-Lesson9)
-- [ERC20](https://github.com/ynyesto/SolidityFoundryCourse-Lesson10)
-- [NFTs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson11)
-- [Stablecoin](https://github.com/ynyesto/SolidityFoundryCourse-Lesson12)
+- [Cyfrin Updraft – Aave V3 exercises](https://github.com/Ynyesto/CyfrinUpdraftAaveV3)
+- [Foundry L7 – Fund Me](https://github.com/ynyesto/SolidityFoundryCourse-Lesson7)
+- [Foundry L9 – Lottery](https://github.com/ynyesto/SolidityFoundryCourse-Lesson9)
+- [Foundry L10 – ERC20](https://github.com/ynyesto/SolidityFoundryCourse-Lesson10)
+- [Foundry L11 – NFTs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson11)
+- [Foundry L12 – Stablecoin](https://github.com/ynyesto/SolidityFoundryCourse-Lesson12)
 - [CCIP Rebase Token](https://github.com/ynyesto/ccip-rebase-token)
 - [Merkle Airdrop](https://github.com/ynyesto/merkle-airdrop)
-- [Upgradeable contracts](https://github.com/ynyesto/SolidityFoundryCourse-Lesson13)
+- [Foundry L13 – Upgradeable contracts](https://github.com/ynyesto/SolidityFoundryCourse-Lesson13)
 - [Account abstraction](https://github.com/ynyesto/account-abstraction)
-- [DAOs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson14)
-- [Security exercises](https://github.com/ynyesto/SolidityFoundryCourse-Lesson15)
-- [ERC721 NFT](https://github.com/ynyesto/RoadToWeb3ERC721)
-- [Buy Me a Coffee dApp](https://github.com/ynyesto/RoadToWeb3BuyMeACoffee)
-- [On-chain metadata NFTs](https://github.com/ynyesto/RoadToWeb3NftsOnchainMetadata)
-- [NFT Gallery](https://github.com/ynyesto/RoadToWeb3NftGallery)
-- [Dynamic NFT with Chainlink](https://github.com/ynyesto/RoadToWeb3Chainlink)
-- [Staking dApp](https://github.com/ynyesto/RoadToWeb3StakingDapp)
+- [Foundry L14 – DAOs](https://github.com/ynyesto/SolidityFoundryCourse-Lesson14)
+- [Foundry L15 - Security](https://github.com/ynyesto/SolidityFoundryCourse-Lesson15)
+- [Road to Web3 – ERC721 NFT](https://github.com/ynyesto/RoadToWeb3ERC721)
+- [Road to Web3 – Buy Me a Coffee dApp](https://github.com/ynyesto/RoadToWeb3BuyMeACoffee)
+- [Road to Web3 – On-chain metadata NFTs](https://github.com/ynyesto/RoadToWeb3NftsOnchainMetadata)
+- [Road to Web3 – NFT Gallery](https://github.com/ynyesto/RoadToWeb3NftGallery)
+- [Road to Web3 – Dynamic NFT with Chainlink](https://github.com/ynyesto/RoadToWeb3Chainlink)
+- [Road to Web3 – Staking dApp](https://github.com/ynyesto/RoadToWeb3StakingDapp)
 
-
+</details>
 
 ---
 
@@ -115,9 +119,3 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 - **[FilmChain smart contract verification](https://github.com/ynyesto/FilmChainSCVerification)**: technical challenge that led to the vesting contract engagement.
 
 ---
-
-## Additional personal projects
-
-- **[Train carbon defootprint](https://github.com/ynyesto/TrainCarbonDefootprint)**: Sepolia POC for tracking avoided carbon footprint, built with a smart contract plus React and Tailwind front end.
-- **[Oasis Riddle](https://github.com/ynyesto/OasisRiddle)**: walkthrough repo for solving the Oasis Network event riddle.
-
