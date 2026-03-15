@@ -4,7 +4,7 @@
 
 Production-minded Web3 engineer with a software background and master's degrees in Industrial Technologies and Automation/Robotics from the [Technical University of Madrid](https://www.upm.es/). Since 2022 I've been building in Web3 while working full-time, focusing on smart contracts, DeFi integrations, and turning ideas into working products.
 
-The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**: a non-custodial DCA dApp for bitcoin on Rootstock that is **live on mainnet**, has **real users and TVL**, and grew from a hackathon win into a **grant-funded product**. That mix of product delivery, smart contract development, and public technical work is what I bring to new collaborations.
+The strongest (public) proof of my work is **[BitChill](https://bitchll.app)**: an automated, non-custodial and yield-bearing DCA dApp for bitcoin on Rootstock that is **live on mainnet**, has **real users and TVL**, and grew from a hackathon win into a **grant-funded product**. That mix of product delivery, smart contract development, and public technical work is what I bring to new collaborations.
 
 **Reach out:** [ynyesto@gmail.com](mailto:ynyesto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/antoniorodriguez-ynyesto/)
 
@@ -17,21 +17,22 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 | Project                                                                               | My role                                 | Why it matters                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[BitChill](https://github.com/BitChillRSK)**                                        | Founder and Tech Lead                   | Shipped an automated, non-custodial and yield-bearing DCA dApp to **Rootstock mainnet** with real users and TVL. Winner of the Vottun & DexTools Hackathon and later backed by a Rootstock grant. |
 | **[Umbrella Research](https://github.com/umbrellaresearch/)**                         | Blockchain Developer                    | Build back-end systems and protocol integrations for DeFi workflows, working mainly in TypeScript with regular Solidity and on-chain data exposure.                            |
+| **[BitChill](https://github.com/BitChillRSK)**                                        | Founder and Tech Lead                   | Shipped an automated, non-custodial and yield-bearing DCA dApp to **Rootstock mainnet** with real users and TVL. Winner of the Vottun & DexTools Hackathon and later backed by a Rootstock grant. |
 | **[ETHGlobal Bangkok - Migrator](https://github.com/GianfrancoBazzani/ETHGlobalBKK)** | Smart Contract Developer and pitch lead | Built the CCIP part of an ERC20 L1 to multichain L2 migration tool. Won Chainlink Best Use of CCIP, Scroll L1SLOAD 2nd place, and Blockscout pool-prize.                                 |
 | **Tropykus (Immunefi)** | Bug bounty submission | Paid low-severity finding on [Tropykus](https://immunefi.com/bounty/tropykus/) via Immunefi. [POC and writeup](https://gist.github.com/Ynyesto/f12cc41085e63da816d72e7a47ec1616). |                                |
-| **[FilmChain Vesting](https://github.com/ynyesto/FilmChainVesting)**                  | Freelance Smart Contract Developer      | Delivered a production vesting contract for early investors and team allocations after first completing the project's token verification challenge.    
+| **[FilmChain Vesting](https://github.com/ynyesto/FilmChainVesting)**                  | Freelance Smart Contract Developer      | Delivered a production vesting contract for early investors and team allocations.
 
 
 ---
 
 ## About me
 
-- **Production delivery:** I have shipped a real Web3 product to mainnet, which currently has active users and TVL.
+- **Production delivery:** I have shipped a real Web3 product to mainnet, which I developed end to end and currently has active users and TVL.
 - **Protocol-facing work:** My work spans smart contracts, DeFi integrations, on-chain data, back-end systems, and some front-end.
-- **Security mindset:** I have completed Cyfrin's security track, published Ethernaut writeups, and performed multiple audit-style reviews.
+- **Security mindset:** I have completed Cyfrin's security track, published Ethernaut and CTF writeups, and performed multiple audit-style reviews.
 - **Public proof of work:** Hackathon wins, freelance delivery, technical challenges, and research/writing all point to execution in public.
+- **Confidential work:** My work on my current full-time job at Umbrella Research is confidential, and since all the repos are private they can't be featured here.
 
 ---
 
@@ -49,11 +50,11 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 ## Security, research, and writing
 
-- **[VaultGuardians audit](https://github.com/ynyesto/VaultGuardiansAudit)**: capstone audit covering manual review, static analysis, fuzzing, and reporting.
+- **[VaultGuardians audit](https://github.com/ynyesto/VaultGuardiansAudit)**: capstone audit of an ERC-4626 project covering manual review, static analysis, fuzzing, and reporting.
 - **Ethernaut writeups**: [Level 32 - Impersonator](https://medium.com/@ynyesto/ethernaut-32-impersonator-825c0ea9d76d), [Level 33 - Magical Animal Carousel](https://medium.com/@ynyesto/ethernaut-33-magical-animal-carousel-3aff78fe67be).
 - **[The Rekt Games writeup](https://medium.com/@ynyesto/how-i-solved-the-rekt-games-ctf-by-the-red-guild-at-devcon-7-sea-227226d8106c)**: learning artifact for the Ethereum Foundation Devcon Scholars Program.
-- **[PBS research entry](https://github.com/ynyesto/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md)**: contribution to the Ethereum Protocol Fellowship Study Group, with related [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0).
-- **[Chorus One research piece](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)**: quantitative research directions for staking providers.
+- **[PBS research entry](https://github.com/ynyesto/ethereum-protocol-studies/blob/pbs/docs/wiki/research/PBS/pbs.md)**: contribution to the Ethereum Protocol Fellowship Study Group, also published as a [HackMD post](https://hackmd.io/@Ynyesto/BkwKsCtJ0).
+- **[Chorus One research piece](https://www.linkedin.com/feed/update/urn:li:activity:7171854584959623168/)**: quantitative research directions for staking providers in 2024.
 - **[pk-keychain-management](https://github.com/Ynyesto/pk-keychain-management)**: local key management so private keys never live in `.env`.
 - **[ERC-Conditional-Tokens (EIP contribution)](https://github.com/Ynyesto/ERC-Conditional-Tokens)**: contributed to an EIP for conditional tokens; still early and not yet widely adopted.
 
@@ -65,7 +66,7 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 - **Uniswap Hooks Incubator**: five workshop hooks plus a [BitChill-related capstone hook](https://github.com/ynyesto/UHI4-capstone-commision-hook).
 - **Chainlink**: [CCIP Bootcamp](https://github.com/ynyesto/CCIP-Bootcamp) and [RWA Bootcamp](https://github.com/ynyesto/Chainlink-RWA-Bootcamp).
 - **Alchemy University**: [Ethereum Developer Bootcamp](https://github.com/ynyesto/AUEthDevBootcamp), including the [SummerPay final project](https://github.com/ynyesto/AUEthDevBootcamp/tree/main/Week%208%20-%20Final%20project).
-- **Cyfrin Updraft Foundry track**: ERC20s, NFTs, stablecoin, CCIP rebase, merkle airdrop, upgrades, account abstraction, DAOs, and security-focused exercises.
+- **Cyfrin Updraft Foundry track**: ERC20s, NFTs, stablecoin, CCIP rebase, merkle airdrop, proxies, account abstraction, DAOs, and security-focused exercises.
 
 <details>
 <summary><b>More repos and coursework</b></summary>
@@ -112,10 +113,9 @@ The strongest proof of my work is **[BitChill](https://github.com/BitChillRSK)**
 
 ---
 
-## Recruitment challenges and freelance
+## Recruitment challenges
 
 - **[Podproza technical challenge](https://github.com/ynyesto/PodprozaTechnicalChallenge)**: Bitcoin chain analytics with Python.
 - **[TruWeb3 cross-chain mirror](https://github.com/ynyesto/ERC20CrossChainMirror)**: ERC20 cross-chain mirror built with TDD and Chainlink CCIP.
-- **[FilmChain smart contract verification](https://github.com/ynyesto/FilmChainSCVerification)**: technical challenge that led to the vesting contract engagement.
 
 ---
