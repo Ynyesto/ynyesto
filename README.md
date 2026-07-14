@@ -1,6 +1,6 @@
 # Antonio Rodríguez-Ynyesto 🛠️
 
-**Blockchain Developer** at [Umbrella Research](https://github.com/umbrellaresearch/) · **Founder & Tech Lead** at [BitChill](https://github.com/BitChillRSK)
+**Founder & Tech Lead** at [BitChill](https://github.com/BitChillRSK)
 
 Production-minded Web3 engineer with a software background and master's degrees in Industrial Technologies and Automation/Robotics from the [Technical University of Madrid](https://www.upm.es/). Since 2022 I've been building in Web3 while working full-time, focusing on smart contracts, DeFi integrations, and turning ideas into working products.
 
@@ -8,7 +8,7 @@ The strongest (public) proof of my work is **[BitChill](https://bitchll.app)**: 
 
 **Reach out:** [ynyesto@gmail.com](mailto:ynyesto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/antoniorodriguez-ynyesto/)
 
-**Open to:** part-time and contract collaborations around smart contracts, DeFi, and protocol-facing products.
+**Open to:** full-time, part-time and contract collaborations around smart contracts, DeFi, and protocol-facing products.
 
 ---
 
@@ -17,7 +17,7 @@ The strongest (public) proof of my work is **[BitChill](https://bitchll.app)**: 
 
 | Project                                                                               | My role                                 | Why it matters                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Umbrella Research](https://github.com/umbrellaresearch/)**                         | Blockchain Developer                    | Build back-end systems and protocol integrations for DeFi workflows, working mainly in TypeScript with regular Solidity and on-chain data exposure.                            |
+| **[Umbrella Research](https://github.com/umbrellaresearch/)**                         | Blockchain Developer                    | Built back-end systems and protocol integrations for DeFi workflows, working mainly in TypeScript with regular Solidity and on-chain data exposure.                            |
 | **[BitChill](https://github.com/BitChillRSK)**                                        | Founder and Tech Lead                   | Shipped an automated, non-custodial and yield-bearing DCA dApp to **Rootstock mainnet** with real users and TVL. Winner of the Vottun & DexTools Hackathon and later backed by a Rootstock grant. |
 | **[ETHGlobal Bangkok - Migrator](https://github.com/GianfrancoBazzani/ETHGlobalBKK)** | Smart Contract Developer and pitch lead | Built the CCIP part of an ERC20 L1 to multichain L2 migration tool. Won Chainlink Best Use of CCIP, Scroll L1SLOAD 2nd place, and Blockscout pool-prize.                                 |
 | **Tropykus (Immunefi)** | Bug bounty submission | Paid low-severity finding on [Tropykus](https://immunefi.com/bounty/tropykus/) via [Immunefi](https://immunefi.com/profile/Ynyesto/). [POC and writeup](https://gist.github.com/Ynyesto/f12cc41085e63da816d72e7a47ec1616). |                                |
